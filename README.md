@@ -1,4 +1,4 @@
-Hi! I'm Rajan Kumar, a dedicated Web Developer currently interning at Alfido Tech as a Frontend Intern. I specialize in building responsive, user-friendly, and visually appealing web applications. My passion lies in creating seamless experiences through clean code and innovative design solutions.
+Hi! I'm Rajan Kumar, a dedicated Web Developer 1 month interning at Alfido Tech as a Frontend Intern. I specialize in building responsive, user-friendly, and visually appealing web applications. My passion lies in creating seamless experiences through clean code and innovative design solutions.
 
 Technologies & Skills
 Frontend Development: HTML5, CSS3, JavaScript
