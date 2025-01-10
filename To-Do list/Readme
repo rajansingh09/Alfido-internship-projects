@@ -1,1 +1,25 @@
+This To-Do List app provides a simple and intuitive way to manage tasks. Users can add new tasks, filter tasks by priority and category, and track their progress through a progress bar. Additionally, users can view completed tasks and manage their overall productivity.
 
+### Features:
+- Add tasks with ease.
+- Filter tasks by priority and category.
+- View and manage completed tasks.
+- Track progress through a progress bar.
+
+### Technologies Used:
+- HTML5
+- CSS3
+- JavaScript
+- DOM Manipulation
+- Progress API
+
+### Future Enhancements:
+- Adding due dates and reminders.
+- Implementing a search feature for tasks.
+- Adding collaboration features for teams.
+
+This project aims to provide a clean, efficient task management solution for individuals and small teams.
+
+---
+
+Ensure you include screenshots or further documentation as needed in the GitHub repository.
