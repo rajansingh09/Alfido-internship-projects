@@ -3,9 +3,9 @@ Hi! I'm Rajan Kumar, a dedicated Web Developer with 1 month of hands-on experien
 
 ## **Technologies & Skills**  
 - **Frontend Development**: HTML5, CSS3, JavaScript  
-- **Frameworks**: Bootstrap, React.js, Express.js  
+- **Frameworks**: Bootstrap
 - **Version Control**: Git & GitHub  
-- **Development Tools**: VSCode, Webpack, Browser Developer Tools  
+- **Development Tools**: VSCode, Browser Developer Tools  
 
 ## **Projects**
 
