@@ -10,8 +10,6 @@ This To-Do List app provides a simple and intuitive way to manage tasks. Users c
 - HTML5
 - CSS3
 - JavaScript
-- DOM Manipulation
-- Progress API
 
 ### Future Enhancements:
 - Adding due dates and reminders.
@@ -19,7 +17,3 @@ This To-Do List app provides a simple and intuitive way to manage tasks. Users c
 - Adding collaboration features for teams.
 
 This project aims to provide a clean, efficient task management solution for individuals and small teams.
-
----
-
-Ensure you include screenshots or further documentation as needed in the GitHub repository.
