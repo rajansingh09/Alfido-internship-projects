@@ -119,7 +119,7 @@ During my time at Alfido Tech, I:
 
 - 👨‍💻 **Intern Name:** Rajan Kumar
 - 🏢 **Organization:** Alfido Tech
-- 🗓️ **Duration:** [01/01/2025] – [31/01/2025]
+- 🗓️ **Duration:** 01/01/2025 – 31/01/2025
 
 ---
 
